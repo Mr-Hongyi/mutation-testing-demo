@@ -1,7 +1,6 @@
 package io.johnnyleitrim.demo.mutation.testing;
 
 import org.junit.Test;
-
 import static org.easymock.EasyMock.createStrictMock;
 import static org.easymock.EasyMock.expect;
 import static org.easymock.EasyMock.replay;
